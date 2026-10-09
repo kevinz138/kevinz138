@@ -12,13 +12,13 @@
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,python,nodejs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git)](https://skillicons.dev)
 </picture>
 
 <p align="center">
